@@ -26,7 +26,7 @@
 
 ## Backend Repository
 
-You can find the backend repository at [hello-react-back-end](https://github.com/Patfarmurs/hello-rails-back-end).
+You can find the backend repository at [hello-rails-back-end](https://github.com/Patfarmurs/hello-rails-back-end).
 
 ### Tech Stack <a name="tech-stack"></a>
 
